@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora Master LP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="price_avaliation">Avaliação de Preços</string>
+    <string name="price_per_litre">Preço por Litro (R$)</string>
+    <string name="concentration">Concentração	%</string>
+    <string name="cost_per_dose">Custo/dose (5ml)	R$</string>
+    <string name="cost_litre_ative">Custo/ litro/ 1% de ativo	R$</string>
+    <string name="cost_per_dose_concentration4">Custo/ dose/ 4%concentração	R$</string>
+    <string name="dif_per_dose">Diferença por dose	R$</string>
+	<string name="cost_per_dose_5ml">Custo/dose (5ml)	R$</string>
+	<string name="cost_per_litre_1percentActive">Custo/ litro/ 1% de ativo	R$</string>
+	<string name="cost_per_litre_4percentConcentrated">Custo/ dose/ 4%concentração	R$</string>
+	<string name="result_of_5_kg">Resultado de ganho adicional 5 kg a mais que o concorrente</string>	
+	<string name="price_15_kg">Preço da @	R$</string>
+	<string name="price_per_kg">$ por Kg	R$</string>
+	<string name="equilibry_point">ponto de equilíbrio	Kg</string>
+	<string name="aditional_weight_gain">ganho de peso adicional	Kg</string>
+	<string name="adittional_net_weight_gain_">ganho de peso adicional líquido	Kg</string>
+	<string name="return_calc">CÁLCULO DE RETORNO ADICIONAL	</string>
+	<string name="lucro_aditional">Lucro adicional por animal	R$</string>
+	<string name="lote">Lote	cab</string>
+	<string name="lucro_liquido">Lucro Líquido - Adicional por Lote	R$</string>
+	<string name="competitor">Produto Concorrente</string>
+	<string name="product_name">Master LP</string>
+    
+    
+    
+</resources>
+
